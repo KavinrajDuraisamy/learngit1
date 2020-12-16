@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 edited in local repo
-=======
 file1 edited
->>>>>>> 94c452b8963215b409d9f4bf3ab0c36c618956a7
+
